@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\task1 (.net)\task1 (.net)\bin\Debug\task1 (.net).exe.config
+C:\Users\user\source\repos\task1 (.net)\task1 (.net)\bin\Debug\task1 (.net).exe
+C:\Users\user\source\repos\task1 (.net)\task1 (.net)\bin\Debug\task1 (.net).pdb
+C:\Users\user\source\repos\task1 (.net)\task1 (.net)\obj\Debug\task1 (.net).csprojAssemblyReference.cache
+C:\Users\user\source\repos\task1 (.net)\task1 (.net)\obj\Debug\task1__.net_.Form1.resources
+C:\Users\user\source\repos\task1 (.net)\task1 (.net)\obj\Debug\task1__.net_.Properties.Resources.resources
+C:\Users\user\source\repos\task1 (.net)\task1 (.net)\obj\Debug\task1 (.net).csproj.GenerateResource.cache
+C:\Users\user\source\repos\task1 (.net)\task1 (.net)\obj\Debug\task1 (.net).exe
+C:\Users\user\source\repos\task1 (.net)\task1 (.net)\obj\Debug\task1 (.net).pdb
